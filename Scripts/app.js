@@ -4,6 +4,7 @@
 // IIFE - Immediately Invoked Function Expression
 
 (function () { // Beginning of the IIFE
+  //call function
 
 let mainNav = document.getElementById("mainNav");
     let navbarHTML;
